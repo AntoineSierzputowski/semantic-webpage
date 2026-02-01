@@ -1,3 +1,4 @@
 .env
 webpage_screenshots/*
+!webpage_screenshots/.gitkeep
 .DS_Store
