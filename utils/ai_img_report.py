@@ -15,7 +15,6 @@ def ai_analyse(img_name):
     )
     
     result = response['message']['content']
-    print(result)
     return result
 
 def report(list_img): 
